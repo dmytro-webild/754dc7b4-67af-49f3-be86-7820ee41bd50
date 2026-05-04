@@ -68,7 +68,7 @@ export default function LandingPage() {
           href: "tel:5550123",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/advanced-diagnostic-lab-with-metallic-equipment-sterile-testing-environment_482257-124278.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/advanced-diagnostic-lab-with-metallic-equipment-sterile-testing-environment_482257-124278.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -84,7 +84,7 @@ export default function LandingPage() {
           quote: "I’ve always been nervous going to auto shops, but here I felt respected and never pressured into anything.",
           name: "Sarah J.",
           role: "Verified Customer",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg?_wi=1",
         },
         {
           id: "2",
@@ -92,7 +92,7 @@ export default function LandingPage() {
           quote: "They handled my emergency fast and professionally. I knew I was in good hands immediately.",
           name: "Michael K.",
           role: "Long-Time Customer",
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-giving-keys-car-customer_329181-11862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-giving-keys-car-customer_329181-11862.jpg?_wi=1",
         },
         {
           id: "3",
@@ -139,7 +139,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/mechanics-checking-planning-workshop_329181-11858.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/advanced-diagnostic-lab-with-metallic-equipment-sterile-testing-environment_482257-124278.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/advanced-diagnostic-lab-with-metallic-equipment-sterile-testing-environment_482257-124278.jpg?_wi=2",
           imageAlt: "transparent honest auto mechanic discussion",
         },
         {
@@ -163,19 +163,19 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/man-dark-gray-t-shirt-looks-cooler-he-took-out-computer-his-tools-front-him-table_346278-1221.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-checking-car_329181-11879.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-checking-car_329181-11879.jpg?_wi=1",
           imageAlt: "transparent honest auto mechanic discussion",
         },
         {
           title: "Fast When It Matters",
           description: "Breakdowns don't wait, and neither do we. Rapid, reliable service to get you back on the road.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg?_wi=2",
           },
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/auto-repairman-examining-undercarriage-car-workshop_637285-7632.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-giving-keys-car-customer_329181-11862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-giving-keys-car-customer_329181-11862.jpg?_wi=2",
           imageAlt: "transparent honest auto mechanic discussion",
         },
       ]}
@@ -273,7 +273,7 @@ export default function LandingPage() {
           content: "We only recommend what you actually need to keep you safe and your car reliable.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/mechanic-checking-car_329181-11879.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/mechanic-checking-car_329181-11879.jpg?_wi=2"
       title="You’ll Always Know What’s Happening"
       description="Transparency is our policy. We ensure you're fully informed before we start any work."
       faqsAnimation="slide-up"
