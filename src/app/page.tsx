@@ -66,7 +66,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "1",          title: "Great Service",          quote: "I’ve always been nervous going to auto shops, but here I felt respected and never pressured into anything.",          name: "Sarah J.",          role: "Verified Customer",          imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg"},
+          id: "1",          title: "Great Service",          quote: "I’ve always been nervous going to auto shops, but here I felt respected and never pressured into anything.",          name: "Sarah J.",          role: "Verified Customer",          imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg?_wi=1"},
         {
           id: "2",          title: "Fast & Reliable",          quote: "They handled my emergency fast and professionally. I knew I was in good hands immediately.",          name: "Michael K.",          role: "Long-Time Customer",          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-giving-keys-car-customer_329181-11862.jpg"},
         {
@@ -107,7 +107,7 @@ export default function LandingPage() {
         },
         {
           title: "Fast When It Matters",          description: "Breakdowns don't wait, and neither do we. Rapid, reliable service to get you back on the road.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/happy-auto-repairman-his-colleague-communicating-while-working-together-workshop_637285-7662.jpg?_wi=2"},
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/auto-repairman-examining-undercarriage-car-workshop_637285-7632.jpg"}
         }
